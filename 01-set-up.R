@@ -42,12 +42,3 @@ bau <- "#FDE725FF"
 ambitious <- "#25858EFF"
 target <- "#482173FF"
 line8mt <- "#E89242FF"
-
-##-------------------------------------------
-#set symlink to data folder -with data files > 50mb
-
-# ONLY DO ONCE
-# file.symlink(
-#   from = "~/filepath/to/your/data/folder", #actual path to dropbox or server
-#   to = 'data_sym'
-#   )
