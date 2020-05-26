@@ -1,0 +1,196 @@
+﻿country,iso3c,region_id,eco_status,Kg_capita_day_waste_gen,Kg_waste_ref,percent_plastic,Perc_plast_ref,annual_change_waste_gen,annual_change_ref,total_missman,percent_mismanged_kaza2018,Lebreton_Andrady_percent_missman,missmanaged_ref,waste_treatment_landfill_unspecified_percent,prop_unspecified,waste_treatment_open_dump_percent,waste_treatment_other_percent,waste_treatment_unaccounted_for_percent,waste_treatment_waterways_marine_percent,Kaza_sum_missmanaged
+Afghanistan,AFG,SAS,LI,0.444961975,Kaza et al 2018,0.142,Kaza et al 2018,1.002,Kaza et al 2018,0.979,0,0.979,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Albania,ALB,ECS,UMI,1.122248965,Kaza et al 2018,0.096,Kaza et al 2018,1.01,Kaza et al 2018,0.99,0,0.99,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Algeria,DZA,MEA,UMI,0.835204471,Kaza et al 2018,0.169,Kaza et al 2018,1.01,Kaza et al 2018,0.8,0,0.8,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+American Samoa,ASM,EAS,UMI,0.935712109,Kaza et al 2018,0.128,Kaza et al 2018,1.01,Kaza et al 2018,0.58,0,0.58,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Angola,AGO,SSF,LMI,0.459174431,Kaza et al 2018,0.135,Kaza et al 2018,1.007,Kaza et al 2018,0.9,0,0.9,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Antigua and Barbuda,ATG,LCN,HI,0.901971548,Kaza et al 2018,0.13,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0.0124,0.287,Jambeck et al. 2015,NA,NA,NA,NA,1.14,0.1,0.0124
+Argentina,ARG,LCN,HI,1.136231664,Kaza et al 2018,0.1461,Kaza et al 2018,1.009,Kaza et al 2018,0.226,0.226,0.333,Kaza et al 2018,NA,NA,22.6,NA,NA,NA,0.226
+Aruba,ABW,LCN,HI,2.43,Kaza et al 2018,0.127907692,Average for HI / LCN,1.009,Kaza et al 2018,0.89,0.89,0.13,Kaza et al 2018,NA,NA,NA,NA,89,NA,0.89
+Australia,AUS,EAS,HI,1.539177573,Kaza et al 2018,0.0761,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,48.87,12.2175,NA,NA,NA,NA,0.122175
+Azerbaijan,AZE,ECS,UMI,0.814505524,Kaza et al 2018,0.0787,Kaza et al 2018,1.01,Kaza et al 2018,0.9999,1,0.22,Kaza et al 2018,NA,NA,100,NA,NA,NA,1
+Bahamas,BHS,LCN,HI,1.848365487,Kaza et al 2018,0.13,Kaza et al 2018,1.009,Kaza et al 2018,0.269,0,0.269,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Bahrain,BHR,MEA,HI,1.830000059,Kaza et al 2018,0.074,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,92,23,NA,NA,NA,NA,0.23
+Bangladesh,BGD,SAS,LMI,0.275400828,Kaza et al 2018,0.0467,Kaza et al 2018,1.007,Kaza et al 2018,0.9475,0.9475,0.99,Kaza et al 2018,NA,NA,NA,NA,94.75,NA,0.9475
+Barbados,BRB,LCN,HI,1.71852448,Kaza et al 2018,0.171,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0.01,0.18,Jambeck et al. 2015,NA,NA,NA,NA,1,NA,0.01
+Belgium,BEL,ECS,HI,1.150820996,Kaza et al 2018,0.1394,Kaza et al 2018,1.009,Kaza et al 2018,0.0226,0.0226,0.01,Kaza et al 2018,0.91,0.2275,NA,NA,2.26,NA,0.024875
+Belize,BLZ,LCN,UMI,0.76483029,Kaza et al 2018,0.19,Kaza et al 2018,1.01,Kaza et al 2018,0.66,0.66,0.99,Kaza et al 2018,NA,NA,66,NA,NA,NA,0.66
+Benin,BEN,SSF,LI,0.353137276,Kaza et al 2018,0.073,Kaza et al 2018,1.002,Kaza et al 2018,0.75,0.75,0.99,Kaza et al 2018,NA,NA,NA,NA,75,NA,0.75
+Bermuda,BMU,NAC,HI,4.287769139,Kaza et al 2018,0.13,Kaza et al 2018,1.009,Kaza et al 2018,0.13,0,0.13,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Bolivia,BOL,LCN,LMI,0.572954938,Kaza et al 2018,0.1019,Kaza et al 2018,1.007,Kaza et al 2018,0.5552,0.5552,0.289,Kaza et al 2018,NA,NA,55.52,NA,NA,NA,0.5552
+Bosnia and Herzegovina,BIH,ECS,UMI,0.982475711,Kaza et al 2018,0.110828571,Kaza et al 2018,1.01,Kaza et al 2018,0.6732903,0.6732903,0.62,Kaza et al 2018,NA,NA,41.75,0.025,25.55403,NA,0.6732903
+Botswanna,BWA,SSF,UMI,0.307376353,Kaza et al 2018,0.09745,Average for UMI / SSF,1.01,Kaza et al 2018,0.99,0.99,0.4,Kaza et al 2018,NA,NA,NA,NA,99,NA,0.99
+Brazil,BRA,LCN,UMI,1.043382535,Kaza et al 2018,0.135,Kaza et al 2018,1.01,Kaza et al 2018,0.2320932,0.2320932,0.42,Kaza et al 2018,NA,NA,15.61932,NA,7.59,NA,0.2320932
+British Virgin Islands,VGB,LCN,HI,3.749352732,Kaza et al 2018,0.063,Kaza et al 2018,1.009,Kaza et al 2018,0.197,0.197,0.13,Kaza et al 2018,NA,NA,NA,NA,19.7,NA,0.197
+Brunei Darussalam,BRN,EAS,HI,1.39999899,Kaza et al 2018,0.16,Kaza et al 2018,1.009,Kaza et al 2018,0.28,0.28,0.01,Kaza et al 2018,NA,NA,NA,NA,28,NA,0.28
+Bulgaria,BGR,ECS,UMI,1.172070841,Kaza et al 2018,0.1215,Kaza et al 2018,1.01,Kaza et al 2018,0.21546,0.21546,0.171,Kaza et al 2018,66.22,33.11,NA,NA,1.68,NA,0.3479
+Burma,MMR,EAS,LMI,0.386043306,Kaza et al 2018,0.133972727,Averae for LMI / EAS,1.007,Kaza et al 2018,0.9999,1,0.99,Kaza et al 2018,NA,NA,NA,8,92,NA,1
+Cambodia,KHM,EAS,LMI,0.201600133,Kaza et al 2018,0.086,Kaza et al 2018,1.007,Kaza et al 2018,0.9999,1,0.923,Kaza et al 2018,NA,NA,NA,17.5,82.5,NA,1
+Cameroon,CMR,SSF,LMI,0.423334812,Kaza et al 2018,0.033,Kaza et al 2018,1.007,Kaza et al 2018,0.803,0.803,0.95,Kaza et al 2018,NA,NA,80.3,NA,NA,NA,0.803
+Canada,CAN,NAC,HI,1.93903003,Kaza et al 2018,0.1295,Average for HI / NAC,1.009,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,72.33,18.0825,NA,NA,NA,NA,0.180825
+Cape Verde,CPV,SSF,LMI,0.710188007,Kaza et al 2018,0.09,Average for LMI / SSF,1.007,Kaza et al 2018,0.829,0,0.829,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Cayman Islands,CYM,LCN,HI,3.432987401,Kaza et al 2018,0.11,Kaza et al 2018,1.009,Kaza et al 2018,0.79,0.79,0.13,Kaza et al 2018,NA,NA,NA,NA,79,NA,0.79
+Chad,TCD,SSF,LI,0.311983584,Kaza et al 2018,0.06,Kaza et al 2018,1.002,Kaza et al 2018,0.959,0,0.959,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Channel Islands,CHI,ECS,HI,2.979363182,Kaza et al 2018,0.11122069,average for HI / ECS,1.009,Kaza et al 2018,0.13,0,0.13,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Chile,CHL,LCN,HI,1.152028398,Kaza et al 2018,0.094,Kaza et al 2018,1.009,Kaza et al 2018,0.138,0.138,0.178,Kaza et al 2018,NA,NA,8.43,0.04,5.33,NA,0.138
+China,CHN,EAS,UMI,0.437991122,Kaza et al 2018,0.098,Kaza et al 2018,1.01,Kaza et al 2018,0.26258,0.26258,0.7,Kaza et al 2018,60.16,30.08,8.21,NA,NA,NA,0.3829
+Colombia,COL,LCN,UMI,0.758805224,Kaza et al 2018,0.1283,Kaza et al 2018,1.01,Kaza et al 2018,0.04,0.04,0.178,Kaza et al 2018,NA,NA,4,NA,NA,NA,0.04
+Comoros,COM,SSF,LI,0.32071559,Kaza et al 2018,0.05,Kaza et al 2018,1.002,Kaza et al 2018,0.992,0,0.992,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Congo,COG,SSF,LMI,0.477965263,Kaza et al 2018,0.09,Average for LMI / SSF,1.007,Kaza et al 2018,0.738,0.738,0.828,Kaza et al 2018,NA,NA,NA,NA,73.8,NA,0.738
+Costa Rica,CRI,LCN,UMI,0.860724061,Kaza et al 2018,0.140282941,Average for UMI / LCN,1.01,Kaza et al 2018,0.091,0.091,0.326,Kaza et al 2018,NA,NA,9.1,NA,NA,NA,0.091
+Cote d'Ivoire,CIV,SSF,LMI,0.638804756,Kaza et al 2018,0.09,Average for LMI / SSF,1.007,Kaza et al 2018,0.97,0.97,0.928,Kaza et al 2018,NA,NA,NA,NA,97,NA,0.97
+Croatia,HRV,ECS,HI,1.105393591,Kaza et al 2018,0.229,Kaza et al 2018,1.009,Kaza et al 2018,0.0224,0.0224,0.272,Kaza et al 2018,79.75,19.9375,NA,NA,2.24,NA,0.221775
+Cuba,CUB,LCN,UMI,0.672769716,Kaza et al 2018,0.096,Kaza et al 2018,1.01,Kaza et al 2018,0.5983,0.5983,0.58,Kaza et al 2018,NA,NA,42.23,NA,17.6,NA,0.5983
+Curacao,CUW,LCN,HI,0.545446793,Kaza et al 2018,0.127907692,Average for HI / LCN,1.009,Kaza et al 2018,0.98,0.98,0.13,Kaza et al 2018,NA,NA,NA,NA,98,NA,0.98
+Cyprus,CYP,ECS,HI,1.291546829,Kaza et al 2018,0.1477,Kaza et al 2018,1.009,Kaza et al 2018,0.0758,0.0758,0.128,Kaza et al 2018,74.49,18.6225,NA,NA,7.58,NA,0.262025
+Czech Republic,CZE,ECS,HI,0.878899622,Kaza et al 2018,0.022,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0.0001,0.02,Jambeck et al. 2015,52.59,13.1475,NA,NA,0.01,NA,0.131575
+Democratic Republic of the Congo,COD,SSF,LI,0.500552498,Kaza et al 2018,0.037095238,Average for LI / SSF,1.002,Kaza et al 2018,0.951,0.951,0.99,Kaza et al 2018,NA,NA,NA,NA,95.1,NA,0.951
+Denmark,DNK,ECS,HI,2.165626241,Kaza et al 2018,0.161,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0.0002,0.01,Jambeck et al. 2015,1.13,0.2825,NA,NA,0.02,NA,0.003025
+Djibouti,DJI,MEA,LMI,0.442966465,Kaza et al 2018,0.106666667,Average for LMI / MEA,1.007,Kaza et al 2018,0.935,0,0.935,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Dominica,DMA,LCN,UMI,0.504485401,Kaza et al 2018,0.16,Kaza et al 2018,1.01,Kaza et al 2018,0.06,0.06,0.68,Kaza et al 2018,NA,NA,NA,NA,6,NA,0.06
+Dominican Republic,DOM,LCN,UMI,1.081287068,Kaza et al 2018,0.1,Kaza et al 2018,1.01,Kaza et al 2018,0.917,0.917,0.661,Kaza et al 2018,NA,NA,72.5758314,NA,19.1241686,NA,0.917
+East Timor,TLS,EAS,LMI,0.137939623,Kaza et al 2018,0.133972727,Averae for LMI / EAS,1.007,Kaza et al 2018,0.83,0,0.83,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Ecuador,ECU,LCN,UMI,0.887416903,Kaza et al 2018,0.1144,Kaza et al 2018,1.01,Kaza et al 2018,0.3388,0.3388,0.676,Kaza et al 2018,NA,NA,22.28,NA,11.6,NA,0.3388
+Egypt,EGY,MEA,LMI,0.6690283,Kaza et al 2018,0.13,Kaza et al 2018,1.007,Kaza et al 2018,0.8715,0.8715,0.835,Kaza et al 2018,7,5.25,84,NA,NA,NA,0.8925
+El Salvador,SLV,LCN,LMI,0.771592039,Kaza et al 2018,0.1,Kaza et al 2018,1.007,Kaza et al 2018,0.218,0.218,0.211,Kaza et al 2018,NA,NA,13.8,7.9,0.1,NA,0.218
+Equatorial Guinea,GNQ,SSF,UMI,0.445095295,Kaza et al 2018,0.09745,Average for UMI / SSF,1.01,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,NA,NA,NA,NA,NA,NA,0
+Eritrea,ERI,SSF,LI,0.428098918,Kaza et al 2018,0.037095238,Average for LI / SSF,1.002,Kaza et al 2018,0.99,0,0.99,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Estonia,EST,ECS,HI,0.990723111,Kaza et al 2018,0.196,Kaza et al 2018,1.009,Kaza et al 2018,0.1289,0.1289,0.05,Kaza et al 2018,NA,NA,NA,NA,12.89,NA,0.1289
+Eswatini,SWZ,SSF,LMI,0.44509446,Kaza et al 2018,0.09,Average for LMI / SSF,1.007,Kaza et al 2018,0.83,0,0.83,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Faroe Islands,FRO,ECS,HI,3.674870821,Kaza et al 2018,0.11122069,average for HI / ECS,1.009,Kaza et al 2018,0.33,0.33,0.13,Kaza et al 2018,NA,NA,NA,NA,33,NA,0.33
+Fiji,FJI,EAS,UMI,0.628802423,Kaza et al 2018,0.075,Kaza et al 2018,1.01,Kaza et al 2018,0.5815,0.5815,0.747,Kaza et al 2018,52,26,NA,NA,42.55,NA,0.6855
+Finland,FIN,ECS,HI,1.380793644,Kaza et al 2018,0.145,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0.0001,0.01,Jambeck et al. 2015,11.5,2.875,NA,NA,0.01,NA,0.02885
+France,FRA,ECS,HI,1.333599422,Kaza et al 2018,0.09,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0.0002,0.01,Jambeck et al. 2015,25.76,6.44,NA,NA,0.02,NA,0.0646
+French Polynesia,PYF,EAS,HI,1.364788505,Kaza et al 2018,0.09,Kaza et al 2018,1.009,Kaza et al 2018,0.61,0.61,0.13,Kaza et al 2018,NA,NA,NA,NA,61,NA,0.61
+Gabon,GAB,SSF,UMI,0.558979745,Kaza et al 2018,0.09745,Average for UMI / SSF,1.01,Kaza et al 2018,0.437,0,0.437,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Gambia,GMB,SSF,LI,0.405550485,Kaza et al 2018,0.037095238,Average for LI / SSF,1.002,Kaza et al 2018,0.988,0,0.988,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Georgia,GEO,ECS,LMI,0.629502016,Kaza et al 2018,0.03,Kaza et al 2018,1.007,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,NA,NA,NA,NA,NA,NA,0
+Germany,DEU,ECS,HI,1.710430553,Kaza et al 2018,0.13,Kaza et al 2018,1.009,Kaza et al 2018,0.0202,0.0202,0.01,Kaza et al 2018,0.21,0.0525,NA,NA,2.02,NA,0.020725
+Ghana,GHA,SSF,LMI,0.513620586,Kaza et al 2018,0.01,Kaza et al 2018,1.007,Kaza et al 2018,0.903,0,0.903,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Gibraltar,GIB,ECS,HI,1.493838642,Kaza et al 2018,0.04,Kaza et al 2018,1.009,Kaza et al 2018,0.13,0,0.13,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Greece,GRC,ECS,HI,1.433014301,Kaza et al 2018,0.14,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0.01,0.02,Jambeck et al. 2015,80,20,NA,1,NA,NA,0.21
+Greenland,GRL,ECS,HI,2.61367698,Kaza et al 2018,0.024,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.13,Jambeck et al. 2015,60,15,NA,NA,NA,NA,0.15
+Grenada,GRD,LCN,UMI,0.826102058,Kaza et al 2018,0.164,Kaza et al 2018,1.01,Kaza et al 2018,0.02,0.015,0.599,Jambeck et al. 2015,NA,NA,NA,1.5,NA,NA,0.015
+Guam,GUM,EAS,HI,2.262995265,Kaza et al 2018,0.124,Kaza et al 2018,1.009,Kaza et al 2018,0.1815,0.1815,0.13,Kaza et al 2018,NA,NA,NA,NA,18.15,NA,0.1815
+Guatemala,GTM,LCN,UMI,0.466675057,Kaza et al 2018,0.17291,Kaza et al 2018,1.01,Kaza et al 2018,0.75,0.75,0.794,Kaza et al 2018,NA,NA,69.8,NA,5.2,NA,0.75
+Guinea,GIN,SSF,LI,0.208015571,Kaza et al 2018,0.04,Kaza et al 2018,1.002,Kaza et al 2018,0.95,0.95,0.99,Kaza et al 2018,NA,NA,NA,NA,95,NA,0.95
+Guinea-Bissau,GNB,SSF,LI,0.449112162,Kaza et al 2018,0.037095238,Average for LI / SSF,1.002,Kaza et al 2018,0.991,0,0.991,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Guyana,GUY,LCN,UMI,0.717303762,Kaza et al 2018,0.142,Kaza et al 2018,1.01,Kaza et al 2018,0.56501,0.56501,0.792,Kaza et al 2018,61.37,30.685,NA,NA,38.09,NA,0.68775
+Haiti,HTI,LCN,LI,0.583402488,Kaza et al 2018,0.127,Kaza et al 2018,1.002,Kaza et al 2018,0.9006,0.9006,0.99,Kaza et al 2018,NA,NA,NA,NA,90.06,NA,0.9006
+Honduras,HND,LCN,LMI,0.650000091,Kaza et al 2018,0.1441,Kaza et al 2018,1.007,Kaza et al 2018,0.288,0.288,0.887,Kaza et al 2018,NA,NA,15,NA,13.8,NA,0.288
+Hong Kong,HKG,EAS,HI,2.13245507,Kaza et al 2018,0.21,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.13,Jambeck et al. 2015,66,16.5,NA,NA,NA,NA,0.165
+Iceland,ISL,ECS,HI,4.407930446,Kaza et al 2018,0.09,Kaza et al 2018,1.009,Kaza et al 2018,0.0914,0.0914,0.01,Kaza et al 2018,30.29,7.5725,NA,9.14,NA,NA,0.167125
+India,IND,SAS,LMI,0.573397902,Kaza et al 2018,0.051675,Average for LMI / SAS,1.007,Kaza et al 2018,0.77,0.77,0.85,Kaza et al 2018,NA,NA,77,NA,NA,NA,0.77
+Indonesia,IDN,EAS,LMI,0.684104035,Kaza et al 2018,0.14,Kaza et al 2018,1.007,Kaza et al 2018,0.5505,0.5505,0.25,Kaza et al 2018,69,51.75,10,14,NA,NA,0.7575
+Iran (Islamic Republic of),IRN,MEA,UMI,0.602497478,Kaza et al 2018,0.085,Kaza et al 2018,1.01,Kaza et al 2018,0.723,0.723,0.472,Kaza et al 2018,NA,NA,72,NA,0.3,NA,0.723
+Iraq,IRQ,MEA,UMI,1.028640841,Kaza et al 2018,0.0529,Kaza et al 2018,1.01,Kaza et al 2018,0.9999,1,0.522,Kaza et al 2018,NA,NA,100,NA,NA,NA,1
+Ireland,IRL,ECS,HI,1.818995193,Kaza et al 2018,0.124,Kaza et al 2018,1.009,Kaza et al 2018,0.03,0.03,0.01,Kaza et al 2018,NA,NA,NA,2,1,NA,0.03
+Isle of Man,IMN,ECS,HI,1.847794489,Kaza et al 2018,0.11122069,average for HI / ECS,1.009,Kaza et al 2018,0.02,0,0.13,Jambeck et al. 2015,25,6.25,NA,NA,NA,NA,0.0625
+Israel,ISR,MEA,HI,1.706236996,Kaza et al 2018,0.18,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,75,18.75,NA,NA,NA,NA,0.1875
+Italy,ITA,ECS,HI,1.310935596,Kaza et al 2018,0.116,Kaza et al 2018,1.009,Kaza et al 2018,0.1102,0.1102,0.01,Kaza et al 2018,26.48,6.62,NA,NA,11.02,NA,0.1764
+Jamaica,JAM,LCN,UMI,1.000000404,Kaza et al 2018,0.122,Kaza et al 2018,1.01,Kaza et al 2018,0.36,0.36,0.86,Kaza et al 2018,NA,NA,NA,29,7,NA,0.36
+Japan,JPN,EAS,HI,0.957310041,Kaza et al 2018,0.11,Kaza et al 2018,1.009,Kaza et al 2018,0.133,0.133,0.01,Kaza et al 2018,NA,NA,NA,13.3,NA,NA,0.133
+Jordan,JOR,MEA,UMI,0.809354499,Kaza et al 2018,0.16,Kaza et al 2018,1.01,Kaza et al 2018,0.594,0.594,0.4,Kaza et al 2018,48,24,45,NA,NA,NA,0.69
+Kenya,KEN,SSF,LMI,0.386923134,Kaza et al 2018,0.187,Kaza et al 2018,1.007,Kaza et al 2018,0.92,0.92,0.935,Kaza et al 2018,NA,NA,NA,NA,92,NA,0.92
+Kiribati,KIR,EAS,LMI,0.855579113,Kaza et al 2018,0.165,Kaza et al 2018,1.007,Kaza et al 2018,0.983,0,0.983,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+"Korea, Republic of",KOR,EAS,HI,0.993168285,Kaza et al 2018,0.243,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.13,Jambeck et al. 2015,16,4,NA,NA,NA,NA,0.04
+Kuwait,KWT,MEA,HI,1.548404267,Kaza et al 2018,0.2,Kaza et al 2018,1.009,Kaza et al 2018,0.9999,1,0.01,Kaza et al 2018,NA,NA,100,NA,NA,NA,1
+Kyrgyzstan,KGZ,ECS,LMI,0.504963571,Kaza et al 2018,0.03125,Average for LMI / ECS,1.007,Kaza et al 2018,0.9999,1,0.931,Kaza et al 2018,NA,NA,100,NA,NA,NA,1
+Lao People's Democratic Republic,LAO,EAS,LMI,0.147747353,Kaza et al 2018,0.061,Kaza et al 2018,1.007,Kaza et al 2018,0.6,0.6,0.99,Kaza et al 2018,NA,NA,60,NA,NA,NA,0.6
+Latvia,LVA,ECS,HI,1.209309991,Kaza et al 2018,0.077,Kaza et al 2018,1.009,Kaza et al 2018,0.1565,0.1565,0.01,Kaza et al 2018,57.64,14.41,NA,NA,15.65,NA,0.3006
+Lebanon,LBN,MEA,UMI,0.980099367,Kaza et al 2018,0.115,Kaza et al 2018,1.01,Kaza et al 2018,0.29,0.29,0.3,Kaza et al 2018,NA,NA,29,NA,NA,NA,0.29
+Lesotho,LSO,SSF,LMI,0.109375415,Kaza et al 2018,0.09,Average for LMI / SSF,1.007,Kaza et al 2018,0.943,0,0.943,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Liberia,LBR,SSF,LI,0.42929306,Kaza et al 2018,0.037095238,Average for LI / SSF,1.002,Kaza et al 2018,0.99,0,0.99,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Libyan Arab Jamahiriya,LBY,MEA,UMI,1.05342606,Kaza et al 2018,0.075,Kaza et al 2018,1.01,Kaza et al 2018,0.594,0,0.594,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Liechtenstein,LIE,ECS,HI,2.581158546,Kaza et al 2018,0.054,Kaza et al 2018,1.009,Kaza et al 2018,0.354,0.354,0.13,Kaza et al 2018,NA,NA,NA,NA,35.4,NA,0.354
+Lithuania,LTU,ECS,HI,1.261448617,Kaza et al 2018,0.1015,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0.0139,0.105,Jambeck et al. 2015,54,13.5,NA,NA,1.39,NA,0.1489
+Luxembourg,LUX,ECS,HI,1.699172985,Kaza et al 2018,0.18,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0.0028,0.01,Jambeck et al. 2015,17.7,4.425,NA,NA,0.28,NA,0.04705
+Macau,MAC,EAS,HI,1.691462516,Kaza et al 2018,0.079,Kaza et al 2018,1.009,Kaza et al 2018,0.8,0.8,0.79,Kaza et al 2018,NA,NA,NA,NA,80,NA,0.8
+Madagascar,MDG,SSF,LI,0.414764143,Kaza et al 2018,0.037095238,Average for LI / SSF,1.002,Kaza et al 2018,0.967,0.967,0.993,Kaza et al 2018,NA,NA,96.7,NA,NA,NA,0.967
+Malaysia,MYS,EAS,UMI,1.205562503,Kaza et al 2018,0.15,Kaza et al 2018,1.01,Kaza et al 2018,0.2145,0.2145,0.85,Kaza et al 2018,71.5,,NA,NA,NA,NA,0
+Maldives,MDV,SAS,UMI,1.438939649,Kaza et al 2018,0.03,Kaza et al 2018,1.01,Kaza et al 2018,0.87,0.87,0.58,Kaza et al 2018,NA,NA,NA,24,NA,63,0.87
+Malta,MLT,MEA,HI,1.627159818,Kaza et al 2018,0.12,Kaza et al 2018,1.009,Kaza et al 2018,0.0335,0.0335,0.13,Kaza et al 2018,NA,NA,NA,NA,3.35,NA,0.0335
+Marshall Islands,MHL,EAS,UMI,0.447413895,Kaza et al 2018,0.13,Kaza et al 2018,1.01,Kaza et al 2018,0.632,0.632,0.939,Kaza et al 2018,NA,NA,NA,NA,63.2,NA,0.632
+Mauritania,MRT,SSF,HI,0.364992915,Kaza et al 2018,0.2,Kaza et al 2018,1.009,Kaza et al 2018,0.547,0.547,0.547,Kaza et al 2018,NA,NA,54.7,NA,NA,NA,0.547
+Mauritius,MUS,SSF,UMI,0.948754764,Kaza et al 2018,0.124,Kaza et al 2018,1.01,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,NA,NA,NA,NA,NA,NA,0
+Mexico,MEX,LCN,UMI,1.163236619,Kaza et al 2018,0.109,Kaza et al 2018,1.01,Kaza et al 2018,0.21,0.21,0.304,Kaza et al 2018,NA,NA,21,NA,NA,NA,0.21
+"Micronesia, Federated States of",FSM,EAS,LMI,3.389404811,Kaza et al 2018,0.2617,Kaza et al 2018,1.007,Kaza et al 2018,0.945,0,0.945,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Monaco,MCO,ECS,HI,3.606925211,Kaza et al 2018,0.01,Kaza et al 2018,1.009,Kaza et al 2018,0.096,0.096,0.13,Kaza et al 2018,NA,NA,NA,NA,9.6,NA,0.096
+Mongolia,MNG,EAS,LMI,2.624433748,Kaza et al 2018,0.145,Kaza et al 2018,1.007,Kaza et al 2018,0.9999,1,0.659,Kaza et al 2018,NA,NA,93.5,NA,6.5,NA,1
+Montenegro,MNE,ECS,UMI,1.494853881,Kaza et al 2018,0.1842,Kaza et al 2018,1.01,Kaza et al 2018,0.9458,0.9458,0.58,Kaza et al 2018,NA,NA,91.57,NA,3.01,NA,0.9458
+Morocco,MAR,MEA,LMI,0.553452557,Kaza et al 2018,0.08,Kaza et al 2018,1.007,Kaza et al 2018,0.54,0.54,0.62,Kaza et al 2018,NA,NA,52,2,NA,NA,0.54
+Mozambique,MOZ,SSF,LI,0.25134787,Kaza et al 2018,0.037095238,Average for LI / SSF,1.002,Kaza et al 2018,0.99,0.99,0.968,Kaza et al 2018,NA,NA,99,NA,NA,NA,0.99
+Namibia,NAM,SSF,UMI,0.554413475,Kaza et al 2018,0.09745,Average for UMI / SSF,1.01,Kaza et al 2018,0.955,0.955,0.672,Kaza et al 2018,NA,NA,NA,NA,95.5,NA,0.955
+Nauru,NRU,EAS,UMI,1.130407306,Kaza et al 2018,0.165,Kaza et al 2018,1.01,Kaza et al 2018,0.58,0,0.58,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Netherlands,NLD,ECS,HI,1.437650758,Kaza et al 2018,0.14,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,1.412,0.353,NA,NA,NA,NA,0.00353
+New Caledonia,NCL,EAS,HI,1.050972972,Kaza et al 2018,0.165,Kaza et al 2018,1.009,Kaza et al 2018,0.13,0,0.13,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+New Zealand,NZL,EAS,HI,1.97422152,Kaza et al 2018,0.08,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,100,25,NA,NA,NA,NA,0.25
+Nicaragua,NIC,LCN,LMI,0.796253893,Kaza et al 2018,0.115333333,Average for LMI / LCN,1.007,Kaza et al 2018,0.8922,0.8922,0.837,Kaza et al 2018,19.6,14.7,59.3,21.1,NA,NA,0.951
+Niger,NER,SSF,LI,0.567402481,Kaza et al 2018,0.02,Kaza et al 2018,1.002,Kaza et al 2018,0.96,0.96,0.99,Kaza et al 2018,NA,NA,64,12,20,NA,0.96
+Nigeria,NGA,SSF,LMI,0.509278153,Kaza et al 2018,0.048,Kaza et al 2018,1.007,Kaza et al 2018,0.78,0.78,0.99,Kaza et al 2018,40,30,NA,60,NA,NA,0.9
+Northern Mariana Islands,MNP,EAS,HI,1.53967992,Kaza et al 2018,0.165,Kaza et al 2018,1.009,Kaza et al 2018,0.64,0.64,0.13,Kaza et al 2018,NA,NA,NA,NA,64,NA,0.64
+Norway,NOR,ECS,HI,1.160263611,Kaza et al 2018,0.0225,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0.0142,0.01,Jambeck et al. 2015,NA,NA,NA,NA,1.42,NA,0.0142
+Oman,OMN,MEA,HI,1.194373039,Kaza et al 2018,0.21,Kaza et al 2018,1.009,Kaza et al 2018,0.9999,0.9999,0.01,Kaza et al 2018,NA,NA,99.99,NA,NA,NA,0.9999
+Pakistan,PAK,SAS,LMI,0.430421097,Kaza et al 2018,0.09,Kaza et al 2018,1.007,Kaza et al 2018,0.68,0.68,0.95,Kaza et al 2018,40,30,50,NA,NA,NA,0.8
+Palau,PLW,EAS,HI,1.201106695,Kaza et al 2018,0.32,Kaza et al 2018,1.009,Kaza et al 2018,0.562,0,0.562,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Palestine,PSE,MEA,LMI,0.582274606,average for LMI / MEA,0.106666667,Average for LMI / MEA,1.007,Kaza et al 2018,0.67,0.67,0.83,Kaza et al 2018,NA,NA,67,NA,NA,NA,0.67
+Panama,PAN,LCN,HI,1.029989787,Kaza et al 2018,0.12,Kaza et al 2018,1.009,Kaza et al 2018,0.423,0.423,0.441,Kaza et al 2018,NA,NA,23.4,18.9,NA,NA,0.423
+Papua New Guinea,PNG,EAS,LMI,0.35662496,Kaza et al 2018,0.1,Kaza et al 2018,1.007,Kaza et al 2018,0.37,0.37,0.929,Kaza et al 2018,NA,NA,NA,37,NA,NA,0.37
+Peru,PER,LCN,UMI,0.753428734,Kaza et al 2018,0.1052,Kaza et al 2018,1.01,Kaza et al 2018,0.5639,0.5639,0.565,Kaza et al 2018,NA,NA,56.39,NA,NA,NA,0.5639
+Philippines,PHL,EAS,LMI,0.387992394,Kaza et al 2018,0.1055,Kaza et al 2018,1.007,Kaza et al 2018,0.72,0.72,0.85,Kaza et al 2018,NA,NA,NA,NA,72,NA,0.72
+Poland,POL,ECS,HI,0.798029278,Kaza et al 2018,0.1213,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.172,Jambeck et al. 2015,44.26,11.065,NA,NA,NA,NA,0.11065
+Portugal,PRT,ECS,HI,1.267422707,Kaza et al 2018,0.1072,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,48.97,12.2425,NA,NA,NA,NA,0.122425
+Puerto Rico,PRI,LCN,HI,3.53272186,Kaza et al 2018,0.104,Kaza et al 2018,1.009,Kaza et al 2018,0.195,0.195,0.01,Kaza et al 2018,66.5,16.625,NA,NA,19.5,NA,0.36125
+Qatar,QAT,MEA,HI,1.274256341,Kaza et al 2018,0.14,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,93,23.25,NA,NA,NA,NA,0.2325
+Romania,ROU,ECS,UMI,0.694440429,Kaza et al 2018,0.1233,Kaza et al 2018,1.01,Kaza et al 2018,0.34128,0.34128,0.341,Kaza et al 2018,71.96,35.98,NA,NA,12.54,NA,0.4852
+Russia,RUS,ECS,UMI,1.130984679,Kaza et al 2018,0.1421,Kaza et al 2018,1.01,Kaza et al 2018,0.955,0.955,0.223,Kaza et al 2018,NA,NA,95,NA,0.5,NA,0.955
+Rwanda,RWA,SSF,LI,1.008064245,Kaza et al 2018,0.037095238,Average for LI / SSF,1.002,Kaza et al 2018,0.98,0,0.98,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Saint Kitts and Nevis,KNA,LCN,UMI,1.668193845,Kaza et al 2018,0.232,Kaza et al 2018,1.01,Kaza et al 2018,0.246,0,0.246,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Saint Lucia,LCA,LCN,UMI,1.206008883,Kaza et al 2018,0.22,Kaza et al 2018,1.01,Kaza et al 2018,0.031,0.031,0.3,Kaza et al 2018,NA,NA,NA,2.6,0.5,NA,0.031
+Saint Martin,SXM,LCN,HI,1.656921541,Kaza et al 2018,0.127907692,Average for HI / LCN,1.009,Kaza et al 2018,0.13,0,0.13,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Saint Vincent and the Grenadines,VCT,LCN,UMI,0.793634234,Kaza et al 2018,0.084,Kaza et al 2018,1.01,Kaza et al 2018,0.33573,0.33573,0.687,Kaza et al 2018,99.91,49.955,NA,3.6,NA,NA,0.53555
+Samoa,WSM,EAS,UMI,0.406679947,Kaza et al 2018,0.13,Kaza et al 2018,1.01,Kaza et al 2018,0.33,0.33,0.872,Kaza et al 2018,NA,NA,NA,NA,33,NA,0.33
+Sao Tome and Principe,STP,SSF,LMI,0.370015822,Kaza et al 2018,0.09,Average for LMI / SSF,1.007,Kaza et al 2018,0.935,0,0.935,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Saudi Arabia,SAU,MEA,HI,1.396824273,Kaza et al 2018,0.11,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,NA,NA,NA,NA,NA,NA,0
+Senegal,SEN,SSF,LI,0.436258611,Kaza et al 2018,0.09,Kaza et al 2018,1.002,Kaza et al 2018,0.949,0.949,0.959,Kaza et al 2018,NA,NA,43.8,4.7,46.4,NA,0.949
+Seychelles,SYC,SSF,HI,1.560344826,Kaza et al 2018,0.099,Kaza et al 2018,1.009,Kaza et al 2018,0.159,0,0.159,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Sierra Leone,SLE,SSF,LI,0.307157775,Kaza et al 2018,0.037095238,Average for LI / SSF,1.002,Kaza et al 2018,0.988,0,0.988,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Singapore,SGP,EAS,HI,3.727788375,Kaza et al 2018,0.1058,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,2,0.5,NA,NA,NA,NA,0.005
+Slovakia,SVK,ECS,HI,0.914944123,Kaza et al 2018,0.11,Kaza et al 2018,1.009,Kaza et al 2018,0.0566,0.0566,0.07,Kaza et al 2018,68.72,17.18,NA,NA,5.66,NA,0.2284
+Slovenia,SVN,ECS,HI,1.252290693,Kaza et al 2018,0.11122069,average for HI / ECS,1.009,Kaza et al 2018,0.0615,0.0615,0.14,Kaza et al 2018,22.68,5.67,NA,NA,6.15,NA,0.1182
+Solomon Islands,SLB,EAS,LMI,0.878348251,Kaza et al 2018,0.2235,Kaza et al 2018,1.007,Kaza et al 2018,0.9999,1,0.978,Kaza et al 2018,NA,NA,NA,NA,19,81,1
+Somalia,SOM,SSF,LI,0.445095387,Kaza et al 2018,0.037095238,Average for LI / SSF,1.002,Kaza et al 2018,0.968,0,0.968,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+South Africa,ZAF,SSF,UMI,0.983240754,Kaza et al 2018,0.0709,Kaza et al 2018,1.01,Kaza et al 2018,0.627,0,0.627,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+South Sudan,SSD,SSF,LI,0.639513346,Kaza et al 2018,0.037095238,Average for LI / SSF,1.002,Kaza et al 2018,0.988,0,0.988,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Spain,ESP,ECS,HI,1.200086278,Kaza et al 2018,0.09,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,55.09,13.7725,NA,NA,NA,NA,0.137725
+Sri Lanka,LKA,SAS,LMI,0.333558898,Kaza et al 2018,0.07,Kaza et al 2018,1.007,Kaza et al 2018,0.85,0.85,0.95,Kaza et al 2018,NA,NA,85,NA,NA,NA,0.85
+Sudan,SDN,SSF,LMI,0.202282288,Kaza et al 2018,0.127,Kaza et al 2018,1.007,Kaza et al 2018,0.549,0.549,0.901,Kaza et al 2018,82,61.5,NA,18,NA,NA,0.795
+Suriname,SUR,LCN,UMI,0.405334882,Kaza et al 2018,0.11,Kaza et al 2018,1.01,Kaza et al 2018,0.9999,1,0.99,Kaza et al 2018,NA,NA,63,NA,37,NA,1
+Sweden,SWE,ECS,HI,1.222259364,Kaza et al 2018,0.0658,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,0.8,0.2,NA,NA,NA,NA,0.02
+Switzerland,CHE,ECS,HI,1.9885168,Kaza et al 2018,0.15,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,NA,NA,NA,NA,NA,NA,0
+Syrian Arab Republic,SYR,MEA,LI,0.572268766,Kaza et al 2018,0.07,Kaza et al 2018,1.002,Kaza et al 2018,0.98,0.98,0.968,Kaza et al 2018,20,20,80,NA,NA,NA,1
+Taiwan,TWN,EAS,HI,0.800734912,Kaza et al 2018,0.3001,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0.01,0.13,Jambeck et al. 2015,34.8,8.7,NA,1,NA,NA,0.097
+Thailand,THA,EAS,UMI,1.08486588,Kaza et al 2018,0.1759,Kaza et al 2018,1.01,Kaza et al 2018,0.616,0.616,0.6,Kaza et al 2018,27,13.5,53.5,NA,NA,NA,0.67
+The former Yugoslav Republic of Macedonia,MKD,ECS,UMI,1.064204214,average for UMI / ECS,0.110828571,Kaza et al 2018,1.01,Kaza et al 2018,0.29916,0.29916,0.585,Kaza et al 2018,99.72,,NA,NA,NA,NA,0
+Togo,TGO,SSF,LI,0.421223871,Kaza et al 2018,0.1,Kaza et al 2018,1.002,Kaza et al 2018,0.962,0.962,0.992,Kaza et al 2018,NA,NA,96.2,NA,NA,NA,0.962
+Tonga,TON,EAS,UMI,0.456501651,Kaza et al 2018,0.134,Kaza et al 2018,1.01,Kaza et al 2018,0.72,0.72,0.873,Kaza et al 2018,40,20,NA,NA,60,NA,0.8
+Trinidad and Tobago,TTO,LCN,HI,1.467676967,Kaza et al 2018,0.1917,Kaza et al 2018,1.009,Kaza et al 2018,0.872,0.872,0.99,Kaza et al 2018,NA,NA,84,NA,3.2,NA,0.872
+Tunisia,TUN,MEA,LMI,0.6636511,Kaza et al 2018,0.11,Kaza et al 2018,1.007,Kaza et al 2018,0.525,0.525,0.99,Kaza et al 2018,70,52.5,21,NA,NA,NA,0.735
+Turkey,TUR,ECS,UMI,1.10205368,Kaza et al 2018,0.03,Kaza et al 2018,1.01,Kaza et al 2018,0.45,0.45,0.69,Kaza et al 2018,NA,NA,44,NA,1,NA,0.45
+Turks and Caicos Islands,TCA,LCN,HI,2.068053839,average for HI / LCN,0.163,Kaza et al 2018,1.009,Kaza et al 2018,0.13,0,0.13,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Tuvalu,TUV,EAS,UMI,0.984839788,Kaza et al 2018,0.165,Kaza et al 2018,1.01,Kaza et al 2018,0.85,0.85,0.928,Kaza et al 2018,NA,NA,14.5,NA,70.5,NA,0.85
+Uganda,UGA,SSF,LI,0.553061725,Kaza et al 2018,0.076,Kaza et al 2018,1.002,Kaza et al 2018,0.928,0,0.928,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Ukraine,UKR,ECS,LMI,0.916211484,Kaza et al 2018,0.07,Kaza et al 2018,1.007,Kaza et al 2018,0.423315,0.423315,0.782,Kaza et al 2018,94.07,,NA,NA,NA,NA,0
+United Arab Emirates,ARE,MEA,HI,1.599999879,Kaza et al 2018,0.19,Kaza et al 2018,1.009,Kaza et al 2018,0.62,0.62,0.01,Kaza et al 2018,9,2.25,62,NA,NA,NA,0.6425
+United Kingdom,GBR,ECS,HI,1.338123836,Kaza et al 2018,0.202,Kaza et al 2018,1.009,Kaza et al 2018,0.02572,0.02572,0.01,Kaza et al 2018,22.568,5.642,NA,NA,2.572,NA,0.08214
+United Republic of Tanzania,TZA,SSF,LI,0.53540813,Kaza et al 2018,0.037095238,Average for LI / SSF,1.002,Kaza et al 2018,0.943,1.001,0.943,Lebreton & Andrady 2018,NA,NA,69,22.6,8.5,NA,1.001
+United States,USA,NAC,HI,2.234155016,Kaza et al 2018,0.129,Kaza et al 2018,1.009,Kaza et al 2018,0.02,0,0.01,Jambeck et al. 2015,52.6,13.15,NA,NA,NA,NA,0.1315
+United States Virgin Islands,VIR,LCN,HI,4.350535089,Kaza et al 2018,0.13,Kaza et al 2018,1.009,Kaza et al 2018,0.13,0,0.13,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Uruguay,URY,LCN,HI,1.011601502,Kaza et al 2018,0.11,Kaza et al 2018,1.009,Kaza et al 2018,0.198,0.198,0.863,Kaza et al 2018,NA,NA,17.5,NA,2.3,NA,0.198
+Uzbekistan,UZB,ECS,LMI,0.397661969,Kaza et al 2018,0.025,Kaza et al 2018,1.007,Kaza et al 2018,0.9999,1,0.838,Kaza et al 2018,NA,NA,60,NA,40,NA,1
+Vanuatu,VUT,EAS,LMI,0.711523067,Kaza et al 2018,0.0645,Kaza et al 2018,1.007,Kaza et al 2018,0.63,0.63,0.958,Kaza et al 2018,NA,NA,11.3,NA,51.7,NA,0.63
+Venezuela,VEN,LCN,UMI,0.876027377,Kaza et al 2018,0.140282941,Average for UMI / LCN,1.01,Kaza et al 2018,0.87,0,0.87,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Viet Nam,VNM,EAS,LMI,0.334979915,Kaza et al 2018,0.1215,Kaza et al 2018,1.007,Kaza et al 2018,0.62,0.62,0.839,Kaza et al 2018,NA,NA,NA,NA,62,NA,0.62
+Yemen,YEM,MEA,LI,0.480403833,Kaza et al 2018,0.1,Kaza et al 2018,1.002,Kaza et al 2018,0.8,0.8,0.68,Kaza et al 2018,NA,NA,25,NA,47,8,0.8
+Zambia,ZMB,SSF,LMI,0.514257325,Kaza et al 2018,0.09,Average for LMI / SSF,1.007,Kaza et al 2018,0.918,0,0.918,Lebreton & Andrady 2018,NA,NA,NA,NA,NA,NA,0
+Zimbabwe,ZWE,SSF,LI,0.305203728,Kaza et al 2018,0.27,Kaza et al 2018,1.002,Kaza et al 2018,0.84,0.84,0.979,Kaza et al 2018,NA,NA,NA,NA,84,NA,0.84
