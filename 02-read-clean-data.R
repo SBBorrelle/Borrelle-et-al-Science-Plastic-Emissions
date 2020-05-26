@@ -129,20 +129,3 @@ inputdata <- x6 %>%
 
 write.table(inputdata, tname,  #change the file name for a new run
              sep=",", col.names= T, row.names=F)
-
-
-
-# #what a waste data for mismanaged where available
-# waw_data <- read_csv(here("inputs", "country_level_data_0.csv")) %>%
-#   select(iso3c, region_id,
-#          waste_treatment_landfill_unspecified_percent,
-#          waste_treatment_open_dump_percent,
-#          waste_treatment_other_percent,
-#          waste_treatment_unaccounted_for_percent,
-#          waste_treatment_waterways_marine_percent) %>%
-#   mutate(Total_missman = select(., c(waste_treatment_landfill_unspecified_percent,
-#                                      waste_treatment_open_dump_percent,
-#                                      waste_treatment_other_percent,
-#                                      waste_treatment_unaccounted_for_percent,
-#                                      waste_treatment_waterways_marine_percent)) %>% rowSums(na.rm = TRUE)) %>%
-#   mutate(Total_missman = Total_missman/100)
