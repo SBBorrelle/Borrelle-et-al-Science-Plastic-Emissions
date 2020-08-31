@@ -95,8 +95,8 @@ for(i in 1:length(scens)){
                 c(0, max(dat$per_cap_emissions_2016)),
                 NULL, NULL, NULL, NULL)
   titles <- c('Emissions Ratio', 'Per Capita Emissions in 2016',
-              'Population 2016', '% Plastic',
-              'KG waste/capita/day', 'Total Inadequately Managed Waste')
+              'Population 2016', '% Plastic in Waste',
+              'KG waste/capita/day', 'Proportion Inadequately Managed Waste')
   p[[i]] <- ggplot() +
     geom_map(data = wd, map = wd,
              aes(group = group, map_id=region),

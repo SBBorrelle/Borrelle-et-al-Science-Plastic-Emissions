@@ -1,0 +1,181 @@
+"Year","Scenario","eco_status","med","lwr","upr"
+2016,"Ambitious","HI",2.129,1.999,2.26
+2016,"Ambitious","LI",0.992,0.832,1.149
+2016,"Ambitious","LMI",8.961,8.036,9.887
+2016,"Ambitious","UMI",9.255,8.384,10.121
+2016,"Business as usual","HI",2.129,1.999,2.26
+2016,"Business as usual","LI",0.992,0.832,1.149
+2016,"Business as usual","LMI",8.961,8.036,9.887
+2016,"Business as usual","UMI",9.255,8.384,10.121
+2016,"Target <8 Mt","HI",2.129,1.999,2.26
+2016,"Target <8 Mt","LI",0.992,0.832,1.149
+2016,"Target <8 Mt","LMI",8.961,8.036,9.887
+2016,"Target <8 Mt","UMI",9.255,8.384,10.121
+2017,"Ambitious","HI",1.968,1.813,2.136
+2017,"Ambitious","LI",1.052,0.879,1.223
+2017,"Ambitious","LMI",8.96,7.992,9.971
+2017,"Ambitious","UMI",9.455,8.491,10.43
+2017,"Business as usual","HI",2.306,2.141,2.474
+2017,"Business as usual","LI",1.082,0.904,1.256
+2017,"Business as usual","LMI",9.711,8.672,10.763
+2017,"Business as usual","UMI",9.98,8.99,10.973
+2017,"Target <8 Mt","HI",1.251,1.107,1.439
+2017,"Target <8 Mt","LI",1.014,0.847,1.18
+2017,"Target <8 Mt","LMI",8.378,7.403,9.403
+2017,"Target <8 Mt","UMI",7.172,5.845,8.587
+2018,"Ambitious","HI",2,1.766,2.251
+2018,"Ambitious","LI",1.114,0.917,1.314
+2018,"Ambitious","LMI",9.058,7.852,10.344
+2018,"Ambitious","UMI",9.609,8.352,10.928
+2018,"Business as usual","HI",2.497,2.258,2.744
+2018,"Business as usual","LI",1.181,0.974,1.391
+2018,"Business as usual","LMI",10.528,9.218,11.879
+2018,"Business as usual","UMI",10.757,9.483,12.071
+2018,"Target <8 Mt","HI",1.144,0.991,1.304
+2018,"Target <8 Mt","LI",1.032,0.851,1.219
+2018,"Target <8 Mt","LMI",7.585,6.249,9.029
+2018,"Target <8 Mt","UMI",6.063,5.066,7.327
+2019,"Ambitious","HI",2.026,1.678,2.39
+2019,"Ambitious","LI",1.179,0.948,1.421
+2019,"Ambitious","LMI",9.157,7.643,10.783
+2019,"Ambitious","UMI",9.834,8.325,11.495
+2019,"Business as usual","HI",2.703,2.363,3.056
+2019,"Business as usual","LI",1.29,1.042,1.55
+2019,"Business as usual","LMI",11.419,9.727,13.199
+2019,"Business as usual","UMI",11.597,9.944,13.332
+2019,"Target <8 Mt","HI",1.075,0.855,1.3
+2019,"Target <8 Mt","LI",1.043,0.839,1.259
+2019,"Target <8 Mt","LMI",6.835,5.347,8.611
+2019,"Target <8 Mt","UMI",5.515,4.314,6.762
+2020,"Ambitious","HI",2.078,1.696,2.545
+2020,"Ambitious","LI",1.245,0.972,1.537
+2020,"Ambitious","LMI",9.42,7.645,11.327
+2020,"Ambitious","UMI",10.145,8.344,12.109
+2020,"Business as usual","HI",2.926,2.47,3.411
+2020,"Business as usual","LI",1.408,1.11,1.732
+2020,"Business as usual","LMI",12.391,10.227,14.702
+2020,"Business as usual","UMI",12.509,10.383,14.769
+2020,"Target <8 Mt","HI",1.011,0.768,1.298
+2020,"Target <8 Mt","LI",1.046,0.814,1.301
+2020,"Target <8 Mt","LMI",6.143,4.393,8.102
+2020,"Target <8 Mt","UMI",5.077,3.796,6.605
+2021,"Ambitious","HI",2.161,1.718,2.709
+2021,"Ambitious","LI",1.312,0.991,1.663
+2021,"Ambitious","LMI",9.789,7.688,12.115
+2021,"Ambitious","UMI",10.503,8.323,12.957
+2021,"Business as usual","HI",3.167,2.574,3.807
+2021,"Business as usual","LI",1.538,1.178,1.939
+2021,"Business as usual","LMI",13.452,10.741,16.421
+2021,"Business as usual","UMI",13.498,10.805,16.406
+2021,"Target <8 Mt","HI",0.975,0.741,1.292
+2021,"Target <8 Mt","LI",1.043,0.781,1.336
+2021,"Target <8 Mt","LMI",5.524,3.66,7.748
+2021,"Target <8 Mt","UMI",4.737,3.442,6.388
+2022,"Ambitious","HI",2.26,1.734,2.866
+2022,"Ambitious","LI",1.38,1.006,1.8
+2022,"Ambitious","LMI",10.259,7.785,13.074
+2022,"Ambitious","UMI",10.894,8.271,13.882
+2022,"Business as usual","HI",3.427,2.677,4.241
+2022,"Business as usual","LI",1.68,1.248,2.173
+2022,"Business as usual","LMI",14.61,11.248,18.359
+2022,"Business as usual","UMI",14.572,11.238,18.249
+2022,"Target <8 Mt","HI",0.952,0.708,1.279
+2022,"Target <8 Mt","LI",1.033,0.741,1.367
+2022,"Target <8 Mt","LMI",5.084,3.294,7.426
+2022,"Target <8 Mt","UMI",4.428,3.084,6.168
+2023,"Ambitious","HI",2.359,1.75,2.999
+2023,"Ambitious","LI",1.455,1.02,1.949
+2023,"Ambitious","LMI",10.818,7.901,14.142
+2023,"Ambitious","UMI",11.299,8.196,14.923
+2023,"Business as usual","HI",3.693,2.781,4.661
+2023,"Business as usual","LI",1.837,1.319,2.433
+2023,"Business as usual","LMI",15.874,11.763,20.533
+2023,"Business as usual","UMI",15.739,11.651,20.313
+2023,"Target <8 Mt","HI",0.929,0.673,1.227
+2023,"Target <8 Mt","LI",1.016,0.689,1.393
+2023,"Target <8 Mt","LMI",4.746,2.976,7.058
+2023,"Target <8 Mt","UMI",4.136,2.738,5.864
+2024,"Ambitious","HI",2.46,1.776,3.172
+2024,"Ambitious","LI",1.539,1.038,2.108
+2024,"Ambitious","LMI",11.455,8.055,15.389
+2024,"Ambitious","UMI",11.681,8.001,15.971
+2024,"Business as usual","HI",3.959,2.888,5.053
+2024,"Business as usual","LI",2.009,1.392,2.731
+2024,"Business as usual","LMI",17.251,12.266,22.976
+2024,"Business as usual","UMI",16.997,12.068,22.585
+2024,"Target <8 Mt","HI",0.904,0.644,1.149
+2024,"Target <8 Mt","LI",0.991,0.631,1.414
+2024,"Target <8 Mt","LMI",4.49,2.771,6.658
+2024,"Target <8 Mt","UMI",3.841,2.384,5.583
+2025,"Ambitious","HI",2.566,1.804,3.354
+2025,"Ambitious","LI",1.632,1.062,2.291
+2025,"Ambitious","LMI",12.168,8.21,16.783
+2025,"Ambitious","UMI",12.003,7.706,17.065
+2025,"Business as usual","HI",4.228,2.999,5.454
+2025,"Business as usual","LI",2.198,1.466,3.068
+2025,"Business as usual","LMI",18.751,12.769,25.726
+2025,"Business as usual","UMI",18.325,12.502,24.914
+2025,"Target <8 Mt","HI",0.879,0.621,1.125
+2025,"Target <8 Mt","LI",0.962,0.57,1.429
+2025,"Target <8 Mt","LMI",4.308,2.621,6.343
+2025,"Target <8 Mt","UMI",3.516,1.96,5.43
+2026,"Ambitious","HI",2.674,1.835,3.543
+2026,"Ambitious","LI",1.735,1.086,2.5
+2026,"Ambitious","LMI",12.944,8.363,18.323
+2026,"Ambitious","UMI",12.3,7.335,18.062
+2026,"Business as usual","HI",4.504,3.11,5.879
+2026,"Business as usual","LI",2.405,1.542,3.443
+2026,"Business as usual","LMI",20.38,13.305,28.754
+2026,"Business as usual","UMI",19.72,12.938,27.426
+2026,"Target <8 Mt","HI",0.855,0.597,1.099
+2026,"Target <8 Mt","LI",0.936,0.527,1.429
+2026,"Target <8 Mt","LMI",4.173,2.478,6.268
+2026,"Target <8 Mt","UMI",3.14,1.361,5.309
+2027,"Ambitious","HI",2.782,1.863,3.732
+2027,"Ambitious","LI",1.847,1.115,2.72
+2027,"Ambitious","LMI",13.745,8.545,19.828
+2027,"Ambitious","UMI",12.63,7.203,19.029
+2027,"Business as usual","HI",4.785,3.225,6.311
+2027,"Business as usual","LI",2.629,1.62,3.856
+2027,"Business as usual","LMI",22.093,13.845,31.811
+2027,"Business as usual","UMI",21.118,13.383,29.755
+2027,"Target <8 Mt","HI",0.828,0.57,1.068
+2027,"Target <8 Mt","LI",0.91,0.488,1.429
+2027,"Target <8 Mt","LMI",4.057,2.354,6.149
+2027,"Target <8 Mt","UMI",2.706,0.541,5.032
+2028,"Ambitious","HI",2.884,1.891,3.898
+2028,"Ambitious","LI",1.968,1.147,2.948
+2028,"Ambitious","LMI",14.551,8.737,21.248
+2028,"Ambitious","UMI",12.987,7.268,20.013
+2028,"Business as usual","HI",5.066,3.345,6.736
+2028,"Business as usual","LI",2.869,1.701,4.295
+2028,"Business as usual","LMI",23.865,14.402,34.865
+2028,"Business as usual","UMI",22.523,13.846,31.849
+2028,"Target <8 Mt","HI",0.797,0.544,1.025
+2028,"Target <8 Mt","LI",0.883,0.456,1.416
+2028,"Target <8 Mt","LMI",3.947,2.237,6.003
+2028,"Target <8 Mt","UMI",2.339,0.504,4.742
+2029,"Ambitious","HI",2.978,1.919,4.03
+2029,"Ambitious","LI",2.099,1.179,3.194
+2029,"Ambitious","LMI",15.365,8.927,22.626
+2029,"Ambitious","UMI",13.366,7.386,20.961
+2029,"Business as usual","HI",5.343,3.47,7.111
+2029,"Business as usual","LI",3.127,1.784,4.769
+2029,"Business as usual","LMI",25.701,14.98,37.969
+2029,"Business as usual","UMI",23.941,14.321,34.016
+2029,"Target <8 Mt","HI",0.762,0.517,0.976
+2029,"Target <8 Mt","LI",0.858,0.427,1.394
+2029,"Target <8 Mt","LMI",3.841,2.128,5.82
+2029,"Target <8 Mt","UMI",2.043,0.482,4.429
+2030,"Ambitious","HI",3.06,1.946,4.121
+2030,"Ambitious","LI",2.24,1.212,3.47
+2030,"Ambitious","LMI",16.189,9.114,24.083
+2030,"Ambitious","UMI",13.765,7.484,21.622
+2030,"Business as usual","HI",5.611,3.596,7.435
+2030,"Business as usual","LI",3.404,1.87,5.288
+2030,"Business as usual","LMI",27.602,15.555,41.143
+2030,"Business as usual","UMI",25.355,14.791,36.135
+2030,"Target <8 Mt","HI",0.724,0.489,0.921
+2030,"Target <8 Mt","LI",0.835,0.404,1.37
+2030,"Target <8 Mt","LMI",3.73,2.027,5.607
+2030,"Target <8 Mt","UMI",1.797,0.459,4.101

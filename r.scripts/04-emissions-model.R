@@ -37,7 +37,7 @@ for(i in unique(country.list$iso3c)){
   ## Loop over each scenario for this country
   for(k in unique(scen.data$Scenario)){
     scenario <- scenarios[which(scenarios$Scenario== k),]
-    ## scenario specific values for reduction, waste man and recovery
+    ## scenario specific values for reduction, waste management and recovery
     rd <- scenario[which(scenario$action == "rd"),'Value'] #reduction value for scenario
     wm <- scenario[which(scenario$action == "wm"),'Value'] #waste mangement value for scenario
     wm_min <- scenario[which(scenario$action == "wm"),'min_rate'] #minimum WM value
@@ -92,10 +92,10 @@ for(i in unique(country.list$iso3c)){
 results <- as.data.frame(data.table::rbindlist(runs))
 names(results)[-(1:4)] <- paste0("rep.", 1:1000)
 ## Check reproducibility
-results[1,5] #[1] 0.02618083 million metric tonnes
+results[1,5] #[1]  million metric tonnes
 
 ## Try plotting a few countries to see if it makes sense
-filter(results, country=='KHM') %>%
+filter(results, country=='KHM') %>% #change the ISO code to see a different country
   gather(replicate, plastic, -Year, -country, -eco_status, -Scenario) %>%
   mutate(replicate=as.numeric(gsub('rep.', '', replicate))) %>%
   filter(replicate<100) %>% ## makes it plot faster
@@ -131,17 +131,17 @@ for( cc in unique(mc$country)){
   print(g)
 }
 dev.off()
-
+#Check a single country
 filter(mc,  country=="IDN" & rep <100) %>%
   ggplot(aes(year, value, group=rep)) +
   facet_grid(factor~country+scenario, scales='free_y') +
   geom_line(alpha=.2) + theme_bw()
 
 
-#save the results including MC simulations to file ## its large (>50mb) so need to save to symlink folder
+#save the results including MC simulations to file ## its large (>50mb) so need to save to symlink folder or not push to github
 st=format(Sys.time(), "%Y-%m-%d") #this gets the timestamp
 tablab <- "Emissions_2030_" # name of the output
-tname <- paste("./data_sym/r.outputs/tables/",tablab,st, ".csv", sep = "") #
+tname <- paste("./r.outputs/tables/",tablab,st, ".csv", sep = "") #
 tname
 
 write.table(results, tname,  #change the file name for a new run

@@ -1,0 +1,37 @@
+﻿Scenario,action,eco_status,Value,min_rate,max_rate
+Business as usual,wm,HI,0,1,1
+Business as usual,wm,UMI,0,1,1
+Business as usual,wm,LMI,0,1,1
+Business as usual,wm,LI,0,1,1
+Business as usual,rd,HI,1,1,1
+Business as usual,rd,UMI,1,1,1
+Business as usual,rd,LMI,1,1,1
+Business as usual,rd,LI,1,1,1
+Business as usual,cu,HI,1,1,1
+Business as usual,cu,UMI,1,1,1
+Business as usual,cu,LMI,1,1,1
+Business as usual,cu,LI,1,1,1
+Ambitious,wm,HI,0.9,1.1,1.35
+Ambitious,wm,UMI,0.7,1.1,1.35
+Ambitious,wm,LMI,0.5,1.1,1.35
+Ambitious,wm,LI,0.3,1.1,1.35
+Ambitious,rd,HI,0.85,1,1
+Ambitious,rd,UMI,0.9,1,1
+Ambitious,rd,LMI,0.9,1,1
+Ambitious,rd,LI,0.95,1,1
+Ambitious,cu,HI,0.9,1,1
+Ambitious,cu,UMI,0.9,1,1
+Ambitious,cu,LMI,0.9,1,1
+Ambitious,cu,LI,0.9,1,1
+Target <8 Mt,wm,HI,0.99,1.1,1.35
+Target <8 Mt,wm,UMI,0.99,1.1,1.35
+Target <8 Mt,wm,LMI,0.8,1.1,1.35
+Target <8 Mt,wm,LI,0.6,1.1,1.35
+Target <8 Mt,rd,HI,0.6,1,1
+Target <8 Mt,rd,UMI,0.65,1,1
+Target <8 Mt,rd,LMI,0.65,1,1
+Target <8 Mt,rd,LI,0.75,1,1
+Target <8 Mt,cu,HI,0.6,1,1
+Target <8 Mt,cu,UMI,0.6,1,1
+Target <8 Mt,cu,LMI,0.6,1,1
+Target <8 Mt,cu,LI,0.6,1,1
